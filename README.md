@@ -15,13 +15,10 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">&nbsp;***Skills***
 
-![C#](https://img.icons8.com/ios-filled/50/4CAF50/c-sharp-logo.png)
-![C++](https://img.icons8.com/ios-filled/50/FF6F61/c-plus-plus-logo.png)
-![Unity](https://img.icons8.com/ios-filled/50/FFFFFF/unity.png)
-![Unreal Engine](https://img.icons8.com/ios-filled/50/00BFFF/unreal-engine.png)
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,unity,unreal,blender,ps,git,github,bitbucket,vscode,notion&perline=7" />
+  </a>
+</p>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=AdmixDev&show_icons=true&include_all_commits=true)
